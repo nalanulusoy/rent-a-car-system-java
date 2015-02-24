@@ -1,0 +1,21 @@
+
+   Proje Adý: OTO KÝRALAMA SÝSTEMÝ
+
+ 
+   Projenin Amacý: GÖRSEL PROGRAMLAMA DERSÝNDE GÖRDÜKLERÝMÝZÝ UYGULAMA
+
+ 
+   Giriþ: Ýlk önce veritabanýný tasarladýk ve buna uygun GUI yöntemlerini belirledik.
+
+ 
+
+   Yöntem: NETBEANS ÜZERÝNDE MYSQL VERÝTABANI KULLANILDI.
+
+   
+   Sonuç: Veritabaný ile formlar arasýndaki baðlantý yapýlarak gereken iþlemler tamamlandý.
+
+   Kaynaklar: SQL SERVER  2005 VE VERÝTABANI PROGRAMLAMA -YAÞAR GÖZÜDELÝ
+                       JAVA 2 - HERBERT SCHÝLDÝT
+                       www.stackoverflow.com
+                      
+  
